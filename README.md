@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChernoBlue
+- 🇧🇪 @ChernoBlue 🇧🇪
 
 <!---
 ChernoBlue/ChernoBlue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
